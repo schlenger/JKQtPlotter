@@ -1,3 +1,8 @@
+## ARCHIVED
+
+This fork is not maintaned anymore. S. official resources
+
+
 # JKQTPlotter - A Qt Plotting Library
 This is an extensive library of function/data plotter classes for Qt (>= 5.0, tested with Qt up to 5.12).
 
